@@ -25,6 +25,10 @@ The filenames are fuzzily matched between the VIM filenames and the coverage
 file filenames. The comparison is just `a.endswith(b) or b.endswith(a)`. Thus,
 the paths may be relative or absolute, and partial matches also will occur.
 
+# Example
+
+![Example image](.assets/example.png)
+
 # Install
 
 To install this, place the `coverage_parser.py` and `coverage_highlight.vim`
