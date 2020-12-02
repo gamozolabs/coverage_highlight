@@ -32,5 +32,5 @@ the paths may be relative or absolute, and partial matches also will occur.
 # Install
 
 To install this, place the `coverage_parser.py` and `coverage_highlight.vim`
-files into your `~/.vim/plugins/` folder. It's that easy.
+files into your `~/.vim/plugin/` folder. It's that easy.
 

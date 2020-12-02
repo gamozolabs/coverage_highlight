@@ -2,7 +2,7 @@
 " read, eg, `BufWinEnter *.*`
 "
 " Just put the `coverage_parser.py` and `coverage_highlight.vim` into
-" `~/.vim/plugins`
+" `~/.vim/plugin`
 
 " Save the CPO
 let s:cpo_save = &cpo
